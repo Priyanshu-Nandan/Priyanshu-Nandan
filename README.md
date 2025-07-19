@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Priyanshu-Nandan
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Manufacturing & Software Development
+- 👀 I’m interested in Web development
+- 🌱 I’m an experienced CS-Cart and Shopware developer
+- 💞 I’ve worked in Webkul Software as Software Developer
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me 9650229386
 
